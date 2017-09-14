@@ -1,4 +1,4 @@
-FROM library/ubuntu:zesty
+FROM library/ubuntu:artful
 MAINTAINER Jakub Bentkowski <bentkowski.jakub@gmail.com>
 
 RUN apt-get update \
