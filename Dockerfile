@@ -8,10 +8,10 @@ RUN apt-get update \
 	lld-5.0 \
 	make \
 	cmake \
-	libassimp3v5 \
-	glfw \
-	glm \
 	googletest \
 	google-mock \
-	libspdlog-dev
+	libglfw3 \
+	libglm-dev \
+	libspdlog-dev \
+	libassimp3v5
 
